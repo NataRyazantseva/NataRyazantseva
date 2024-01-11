@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NataliaPodgayska
-- 👀 I’m interested in Statistics, Probability Theory, Machine Learning
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in everything related to data: Coding, Data Structures, Statistics, Visualizations, Machine Learning
+- 🌱 I’m currently learning GCP
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me: nataryazantseva@gmail.com
 
